@@ -1,4 +1,4 @@
-# Comprehensive-Order-Tracker-Power-BI
+# Comprehensive Order Tracker (Interactive Dashboard Using Power-BI)
 This dataset appears to track product orders from customers, capturing details about individual transactions. Here’s a brief description of the columns and their significance:
 1.	order_id: Unique identifier for each order.
 2.	order_date: Date when the order was placed.
