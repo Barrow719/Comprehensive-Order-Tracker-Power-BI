@@ -74,3 +74,8 @@ Additional Questions
 
   -<a href = "https://github.com/Barrow719/Comprehensive-Order-Tracker-Power-BI/blob/main/ORDER.pdf">Interactive Dashboard</a>
 
+
+
+  ![image](https://github.com/user-attachments/assets/d67f63b7-39a0-4d38-af8d-6b21cc7cf99a)
+
+
